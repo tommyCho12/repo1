@@ -4,3 +4,4 @@ TOmmy's initial commit.
 
 
 DJANGO PROJECT 
+SHOULD WORK NOW WITH PY3
