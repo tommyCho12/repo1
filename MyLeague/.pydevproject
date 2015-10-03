@@ -5,5 +5,7 @@
 <pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
 <key>DJANGO_SETTINGS_MODULE</key>
 <value>MyLeague.settings</value>
+<key>DJANGO_MANAGE_LOCATION</key>
+<value>MyLeague/manage.py</value>
 </pydev_variables_property>
 </pydev_project>
